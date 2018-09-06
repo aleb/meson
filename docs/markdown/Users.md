@@ -65,7 +65,7 @@ format files
  - [Parzip](https://github.com/jpakkane/parzip), a multithreaded reimplementation of Zip
  - [PipeWire](https://github.com/PipeWire/pipewire), a framework for video and audio for containerized applications
  - [Pithos](https://github.com/pithos/pithos), a Pandora Radio client
- - [Pitivi](https://github.com/pitivi/pitivi/), a nonlinear video editor
+ - [Pitivi](https://gitlab.gnome.org/GNOME/pitivi), a nonlinear video editor
  - [Polari](https://gitlab.gnome.org/GNOME/polari), an IRC client
  - [radare2](https://github.com/radare/radare2), unix-like reverse engineering framework and commandline tools (not the default)
  - [SSHFS](https://github.com/libfuse/sshfs), allows you to mount a remote filesystem using SFTP
